@@ -10,4 +10,5 @@ A simple Python automation tool that organizes files in a given folder based on 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/File-Organizer.git
+   git clone https://github.com/<biswa1216>/File-Organizer.git
+
